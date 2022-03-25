@@ -1,0 +1,141 @@
+.vertical_left {
+    border-left: 1px solid #3b3636;
+    height: 100%;
+    position:fixed;
+    top: 0%;
+    left: 10%;
+}
+
+.vertical_left_small1 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 31%;
+    left: 9.94%;
+}
+
+.vertical_left_small2 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 41%;
+    left: 9.94%;
+}
+
+.vertical_left_small3 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 51%;
+    left: 9.94%;
+}
+
+.vertical_left_small4 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 61%;
+    left: 9.94%;
+}
+
+.vertical_right {
+    border-right: 1px solid #3b3636;
+    height: 100%;
+    position:fixed;
+    top: 0%;
+    right: 10%;
+}
+
+.vertical_right_small1 {
+    border-right: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 31%;
+    right: 9.94%;
+}
+
+.vertical_right_small2 {
+    border-right: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 41%;
+    right: 9.94%;
+}
+
+.vertical_right_small3 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 51%;
+    right: 9.94%;
+}
+
+.vertical_right_small4 {
+    border-left: 2px solid #C62F0F;
+    height: 50px;
+    position:fixed;
+    top: 61%;
+    right: 9.94%;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('../FONTS/circe-extralight.woff2') format('woff2'),
+    url('../FONTS/circe-extralight.ttf') format('ttf');
+}
+
+.text-menu-select {
+    font-family: 'Circe';
+    font-size: 140%;
+}
+
+a:link {
+    text-decoration: none;
+    color: #A8280C;
+}
+
+a:hover {
+    color: #8f230b;
+}
+
+a:visited {
+    color: #A8280C;
+}
+
+a:visited:hover {
+    color: #8f230b;
+}
+
+.block-left {
+    height: 100%;
+    width: 15vw;
+    position: fixed;
+    z-index: 1;
+    top: 30%;
+    left: 10.4%;
+    overflow-x: hidden;
+    direction: ltr;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.block-right {
+    height: 100%;
+    width: 19vw;
+    position: fixed;
+    z-index: 1;
+    top: 30%;
+    right: 10.4%;
+    overflow-x: hidden;
+    direction: rtl;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.block-title {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

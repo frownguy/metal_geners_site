@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450.98 99.18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 90px;
+        fill: #ccc;
+        font-family: Squealer-Regular, Squealer;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.05em;
+      }
+    </style>
+  </defs>
+  <title>HEAVY</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <text class="cls-1" transform="translate(0 80.73)">H<tspan class="cls-2" x="45.99" y="0">E</tspan><tspan class="cls-3" x="79.11" y="0">A</tspan><tspan x="118.89" y="0">VY ME</tspan><tspan class="cls-4" x="337.85" y="0">T</tspan><tspan x="368.37" y="0">AL</tspan></text>
+    </g>
+  </g>
+</svg>
